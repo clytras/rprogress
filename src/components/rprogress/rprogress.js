@@ -6,7 +6,7 @@ import { PROGRESS_COMPLETE } from '../../api/constants';
 import transitionEndEvent from '../../utils/whichTransitionEndEvent';
 import subscribe from 'subscribe-event';
 
-import styles from './rprogress-styles.css';
+// import styles from './rprogress-styles.css';
 
 const CYCLE_TYPE = 'cycle';
 const CYCLE_PERCENTS = 25;
