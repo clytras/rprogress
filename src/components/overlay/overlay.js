@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 
 // import styles from './overlay-styles.css';
+const styles = {};
 
 class Overlay extends Component {
     componentDidMount () {
