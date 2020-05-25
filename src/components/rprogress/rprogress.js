@@ -7,6 +7,7 @@ import transitionEndEvent from '../../utils/whichTransitionEndEvent';
 import subscribe from 'subscribe-event';
 
 // import styles from './rprogress-styles.css';
+const styles = {};
 
 const CYCLE_TYPE = 'cycle';
 const CYCLE_PERCENTS = 25;
